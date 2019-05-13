@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Wed, Nov 1, 2006",,L,10:30p,L 1,1,Los Angeles Lakers,110,,98,0
+"Fri, Nov 3, 2006",,W,10:30p,W 1,1,Portland Trail Blazers,89,,102,1
+"Sat, Nov 4, 2006",@,L,9:00p,L 1,2,Utah Jazz,106,,82,1
+"Mon, Nov 6, 2006",@,W,8:30p,W 1,2,Dallas Mavericks,104,,107,2
+"Tue, Nov 7, 2006",@,L,8:00p,L 1,3,New Orleans/Oklahoma City Hornets,97,,93,2
+"Thu, Nov 9, 2006",,W,10:30p,W 1,3,New Orleans/Oklahoma City Hornets,116,,121,3
+"Sat, Nov 11, 2006",,W,10:30p,W 2,3,Detroit Pistons,79,,111,4
+"Tue, Nov 14, 2006",,W,10:30p,W 3,3,Toronto Raptors,99,,110,5
+"Thu, Nov 16, 2006",,W,10:30p,W 4,3,Sacramento Kings,105,,117,6
+"Sat, Nov 18, 2006",,W,10:30p,W 5,3,Seattle SuperSonics,95,,107,7
+"Mon, Nov 20, 2006",,L,10:30p,L 1,4,Phoenix Suns,113,,110,7
+"Wed, Nov 22, 2006",,L,10:30p,L 2,5,Denver Nuggets,115,,112,7
+"Fri, Nov 24, 2006",@,L,9:00p,L 3,6,Denver Nuggets,140,,129,7
+"Sat, Nov 25, 2006",,W,10:30p,W 1,6,Utah Jazz,78,,91,8
+"Mon, Nov 27, 2006",,W,10:30p,W 2,6,San Antonio Spurs,102,,111,9
+"Wed, Nov 29, 2006",,L,10:30p,L 1,7,Indiana Pacers,108,,106,9
+"Sat, Dec 2, 2006",,L,10:30p,L 2,8,Milwaukee Bucks,115,,110,9
+"Mon, Dec 4, 2006",@,L,8:00p,L 3,9,San Antonio Spurs,129,,89,9
+"Tue, Dec 5, 2006",@,L,8:30p,L 4,10,Houston Rockets,118,,90,9
+"Sat, Dec 9, 2006",,W,10:30p,W 1,10,New Orleans/Oklahoma City Hornets,80,,101,10
+"Sun, Dec 10, 2006",@,L,9:00p,L 1,11,Seattle SuperSonics,117,,115,10
+"Tue, Dec 12, 2006",,W,10:30p,W 1,11,Sacramento Kings,113,,126,11
+"Thu, Dec 14, 2006",,W,10:30p,W 2,11,Houston Rockets,107,,109,12
+"Fri, Dec 15, 2006",@,L,9:00p,L 1,12,Phoenix Suns,105,,101,12
+"Sun, Dec 17, 2006",@,L,1:00p,L 2,13,Toronto Raptors,120,,115,12
+"Mon, Dec 18, 2006",@,L,7:30p,L 3,14,New Jersey Nets,105,,97,12
+"Wed, Dec 20, 2006",@,W,7:30p,W 1,14,Boston Celtics,95,,96,13
+"Fri, Dec 22, 2006",@,W,7:00p,W 2,14,Orlando Magic,108,,117,14
+"Sat, Dec 23, 2006",@,L,7:30p,L 1,15,Miami Heat,105,,92,14
+"Tue, Dec 26, 2006",,W,10:30p,W 1,15,Philadelphia 76ers,97,,116,15
+"Fri, Dec 29, 2006",,W,10:30p,W 2,15,Boston Celtics,100,,110,16
+"Sat, Dec 30, 2006",@,L,10:00p,L 1,16,Sacramento Kings,119,,96,16
+"Tue, Jan 2, 2007",@,W,8:00p,W 1,16,New Orleans/Oklahoma City Hornets,89,,97,17
+"Wed, Jan 3, 2007",@,L,8:00p,L 1,17,Memphis Grizzlies,144,,135,17
+"Sat, Jan 6, 2007",,W,10:30p,W 1,17,Seattle SuperSonics,104,,108,18
+"Sun, Jan 7, 2007",@,L,8:00p,L 1,18,Phoenix Suns,128,,105,18
+"Wed, Jan 10, 2007",,L,10:30p,L 2,19,Orlando Magic,91,,76,18
+"Fri, Jan 12, 2007",,L,10:30p,L 3,20,Miami Heat,118,,96,18
+"Mon, Jan 15, 2007",,W,4:00p,W 1,20,Los Angeles Clippers,93,,108,19
+"Wed, Jan 17, 2007",@,L,10:30p,L 1,21,Los Angeles Clippers,115,,109,19
+"Sat, Jan 20, 2007",,L,10:30p,L 2,22,Cleveland Cavaliers,106,OT,104,19
+"Mon, Jan 22, 2007",@,L,10:30p,L 3,23,Los Angeles Lakers,108,,103,19
+"Wed, Jan 24, 2007",,W,10:30p,W 1,23,New Jersey Nets,109,,110,20
+"Sat, Jan 27, 2007",,W,10:30p,W 2,23,Charlotte Bobcats,105,,131,21
+"Tue, Jan 30, 2007",@,L,7:00p,L 1,24,Cleveland Cavaliers,124,,97,21
+"Wed, Jan 31, 2007",@,L,7:00p,L 2,25,Atlanta Hawks,115,,94,21
+"Fri, Feb 2, 2007",@,W,7:00p,W 1,25,Philadelphia 76ers,101,,102,22
+"Sat, Feb 3, 2007",@,L,7:00p,L 1,26,Charlotte Bobcats,98,,90,22
+"Mon, Feb 5, 2007",@,W,7:00p,W 1,26,Indiana Pacers,98,,113,23
+"Wed, Feb 7, 2007",@,L,8:00p,L 1,27,Minnesota Timberwolves,121,,93,23
+"Fri, Feb 9, 2007",,W,10:30p,W 1,27,Chicago Bulls,121,OT,123,24
+"Sun, Feb 11, 2007",,L,9:00p,L 1,28,Atlanta Hawks,106,,105,24
+"Mon, Feb 12, 2007",@,L,9:00p,L 2,29,Denver Nuggets,123,,111,24
+"Wed, Feb 14, 2007",,W,10:30p,W 1,29,New York Knicks,101,,120,25
+"Wed, Feb 21, 2007",,W,10:30p,W 2,29,Memphis Grizzlies,115,OT,118,26
+"Sat, Feb 24, 2007",@,L,3:30p,L 1,30,Los Angeles Clippers,103,,90,26
+"Sun, Feb 25, 2007",,L,6:00p,L 2,31,Los Angeles Lakers,102,,85,26
+"Tue, Feb 27, 2007",@,L,8:00p,L 3,32,Milwaukee Bucks,122,,101,26
+"Wed, Feb 28, 2007",@,L,8:30p,L 4,33,Chicago Bulls,113,,83,26
+"Fri, Mar 2, 2007",@,L,7:30p,L 5,34,New York Knicks,106,,97,26
+"Sun, Mar 4, 2007",@,L,1:00p,L 6,35,Washington Wizards,107,,106,26
+"Mon, Mar 5, 2007",@,W,7:30p,W 1,35,Detroit Pistons,93,,111,27
+"Wed, Mar 7, 2007",,W,10:30p,W 2,35,Denver Nuggets,96,,110,28
+"Fri, Mar 9, 2007",,W,10:30p,W 3,35,Los Angeles Clippers,89,,99,29
+"Sun, Mar 11, 2007",@,L,9:00p,L 1,36,Portland Trail Blazers,106,,87,29
+"Mon, Mar 12, 2007",,W,10:30p,W 1,36,Dallas Mavericks,100,,117,30
+"Fri, Mar 16, 2007",,W,10:30p,W 2,36,Minnesota Timberwolves,86,,106,31
+"Sat, Mar 17, 2007",@,W,10:00p,W 3,36,Seattle SuperSonics,98,,99,32
+"Tue, Mar 20, 2007",@,L,9:00p,L 1,37,Utah Jazz,104,,100,32
+"Fri, Mar 23, 2007",,W,10:30p,W 1,37,Washington Wizards,128,,135,33
+"Sun, Mar 25, 2007",@,L,9:30p,L 1,38,Los Angeles Lakers,115,,113,33
+"Mon, Mar 26, 2007",,L,10:30p,L 2,39,San Antonio Spurs,126,,89,33
+"Thu, Mar 29, 2007",,W,10:30p,W 1,39,Phoenix Suns,119,,124,34
+"Sun, Apr 1, 2007",,W,3:00p,W 2,39,Memphis Grizzlies,117,,122,35
+"Wed, Apr 4, 2007",@,W,8:30p,W 3,39,Houston Rockets,99,,110,36
+"Fri, Apr 6, 2007",@,W,8:00p,W 4,39,Memphis Grizzlies,104,,116,37
+"Sat, Apr 7, 2007",@,L,8:00p,L 1,40,San Antonio Spurs,112,,99,37
+"Mon, Apr 9, 2007",,W,10:30p,W 1,40,Utah Jazz,102,,126,38
+"Fri, Apr 13, 2007",@,W,10:00p,W 2,40,Sacramento Kings,108,,125,39
+"Sun, Apr 15, 2007",,W,3:30p,W 3,40,Minnesota Timberwolves,108,,121,40
+"Tue, Apr 17, 2007",,W,10:30p,W 4,40,Dallas Mavericks,82,,111,41
+"Wed, Apr 18, 2007",@,W,10:00p,W 5,40,Portland Trail Blazers,98,,120,42

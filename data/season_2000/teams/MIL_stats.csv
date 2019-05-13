@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Tue, Nov 2, 1999",@,W,,W 1,0,Houston Rockets,93,,98,1
+"Thu, Nov 4, 1999",@,W,,W 2,0,Atlanta Hawks,109,,119,2
+"Sat, Nov 6, 1999",,W,,W 3,0,Detroit Pistons,111,,121,3
+"Mon, Nov 8, 1999",@,L,,L 1,1,New York Knicks,111,OT,101,3
+"Wed, Nov 10, 1999",@,L,,L 2,2,Charlotte Hornets,117,,111,3
+"Fri, Nov 12, 1999",,W,,W 1,2,Phoenix Suns,92,,107,4
+"Sat, Nov 13, 1999",@,L,,L 1,3,Cleveland Cavaliers,117,,112,4
+"Tue, Nov 16, 1999",,W,,W 1,3,Los Angeles Clippers,93,,101,5
+"Thu, Nov 18, 1999",,W,,W 2,3,San Antonio Spurs,88,,99,6
+"Sat, Nov 20, 1999",,L,,L 1,4,Utah Jazz,111,,100,6
+"Sun, Nov 21, 1999",@,L,,L 2,5,Detroit Pistons,113,,94,6
+"Wed, Nov 24, 1999",,W,,W 1,5,Chicago Bulls,95,,102,7
+"Fri, Nov 26, 1999",@,W,,W 2,5,Boston Celtics,112,,114,8
+"Sat, Nov 27, 1999",,L,,L 1,6,Philadelphia 76ers,82,,79,8
+"Thu, Dec 2, 1999",,L,,L 2,7,New York Knicks,84,,80,8
+"Sat, Dec 4, 1999",@,W,,W 1,7,Chicago Bulls,91,,92,9
+"Sun, Dec 5, 1999",,W,,W 2,7,Dallas Mavericks,97,,103,10
+"Tue, Dec 7, 1999",,L,,L 1,8,Detroit Pistons,116,,112,10
+"Wed, Dec 8, 1999",@,L,,L 2,9,New Jersey Nets,107,,90,10
+"Fri, Dec 10, 1999",@,W,,W 1,9,Toronto Raptors,91,,107,11
+"Sat, Dec 11, 1999",,L,,L 1,10,Denver Nuggets,101,,99,11
+"Wed, Dec 15, 1999",@,W,,W 1,10,Orlando Magic,99,,116,12
+"Thu, Dec 16, 1999",@,W,,W 2,10,Miami Heat,95,,96,13
+"Sat, Dec 18, 1999",,W,,W 3,10,Indiana Pacers,95,,109,14
+"Mon, Dec 20, 1999",@,L,,L 1,11,Phoenix Suns,108,,101,14
+"Tue, Dec 21, 1999",@,L,,L 2,12,Sacramento Kings,108,,95,14
+"Thu, Dec 23, 1999",@,W,,W 1,12,San Antonio Spurs,91,,94,15
+"Sun, Dec 26, 1999",,W,,W 2,12,Miami Heat,85,,93,16
+"Wed, Dec 29, 1999",@,L,,L 1,13,Charlotte Hornets,109,,105,16
+"Thu, Dec 30, 1999",,W,,W 1,13,Cleveland Cavaliers,90,,91,17
+"Mon, Jan 3, 2000",@,L,,L 1,14,Philadelphia 76ers,124,OT,120,17
+"Tue, Jan 4, 2000",,W,,W 1,14,Atlanta Hawks,113,,116,18
+"Thu, Jan 6, 2000",@,L,,L 1,15,Detroit Pistons,101,,95,18
+"Sat, Jan 8, 2000",,W,,W 1,15,Washington Wizards,129,2OT,130,19
+"Mon, Jan 10, 2000",,W,,W 2,15,Charlotte Hornets,87,,137,20
+"Wed, Jan 12, 2000",,L,,L 1,16,Los Angeles Lakers,103,,94,20
+"Fri, Jan 14, 2000",@,L,,L 2,17,Toronto Raptors,115,,110,20
+"Sat, Jan 15, 2000",,W,,W 1,17,Toronto Raptors,97,,118,21
+"Mon, Jan 17, 2000",@,W,,W 2,17,Atlanta Hawks,101,,107,22
+"Wed, Jan 19, 2000",@,L,,L 1,18,Indiana Pacers,106,,84,22
+"Thu, Jan 20, 2000",,L,,L 2,19,Seattle SuperSonics,104,,96,22
+"Wed, Jan 26, 2000",,W,,W 1,19,Sacramento Kings,104,,112,23
+"Fri, Jan 28, 2000",@,L,,L 1,20,Los Angeles Lakers,117,,89,23
+"Sat, Jan 29, 2000",@,W,,W 1,20,Seattle SuperSonics,99,,101,24
+"Mon, Jan 31, 2000",@,W,,W 2,20,Vancouver Grizzlies,87,,92,25
+"Wed, Feb 2, 2000",@,L,,L 1,21,Denver Nuggets,135,,112,25
+"Thu, Feb 3, 2000",@,W,,W 1,21,Utah Jazz,99,,102,26
+"Sat, Feb 5, 2000",,L,,L 1,22,Toronto Raptors,98,,95,26
+"Mon, Feb 7, 2000",,L,,L 2,23,Portland Trail Blazers,115,,111,26
+"Wed, Feb 9, 2000",,L,,L 3,24,New York Knicks,109,,103,26
+"Tue, Feb 15, 2000",@,W,,W 1,24,Dallas Mavericks,99,,112,27
+"Thu, Feb 17, 2000",,L,,L 1,25,Indiana Pacers,92,,90,27
+"Sat, Feb 19, 2000",,L,,L 2,26,Vancouver Grizzlies,111,,100,27
+"Tue, Feb 22, 2000",@,L,,L 3,27,Washington Wizards,126,,101,27
+"Wed, Feb 23, 2000",,L,,L 4,28,Golden State Warriors,91,,86,27
+"Fri, Feb 25, 2000",,L,,L 5,29,Philadelphia 76ers,97,,83,27
+"Sun, Feb 27, 2000",,W,,W 1,29,Orlando Magic,95,,102,28
+"Thu, Mar 2, 2000",@,L,,L 1,30,New York Knicks,109,,94,28
+"Sat, Mar 4, 2000",,L,,L 2,31,Minnesota Timberwolves,91,,84,28
+"Mon, Mar 6, 2000",,W,,W 1,31,Atlanta Hawks,78,,111,29
+"Wed, Mar 8, 2000",@,L,,L 1,32,Boston Celtics,112,,101,29
+"Fri, Mar 10, 2000",,L,,L 2,33,New Jersey Nets,108,,80,29
+"Sun, Mar 12, 2000",,W,,W 1,33,Cleveland Cavaliers,72,,103,30
+"Tue, Mar 14, 2000",@,L,,L 1,34,Miami Heat,108,,104,30
+"Thu, Mar 16, 2000",,W,,W 1,34,Houston Rockets,96,,106,31
+"Sat, Mar 18, 2000",@,L,,L 1,35,New Jersey Nets,92,OT,90,31
+"Sun, Mar 19, 2000",@,L,,L 2,36,Minnesota Timberwolves,109,,82,31
+"Thu, Mar 23, 2000",@,W,,W 1,36,Indiana Pacers,84,,105,32
+"Fri, Mar 24, 2000",,L,,L 1,37,Miami Heat,99,,87,32
+"Sun, Mar 26, 2000",,W,,W 1,37,Boston Celtics,84,,99,33
+"Thu, Mar 30, 2000",@,W,,W 2,37,Los Angeles Clippers,85,,104,34
+"Sat, Apr 1, 2000",@,L,,L 1,38,Portland Trail Blazers,113,,79,34
+"Sun, Apr 2, 2000",@,W,,W 1,38,Golden State Warriors,113,,117,35
+"Tue, Apr 4, 2000",,W,,W 2,38,Chicago Bulls,73,,92,36
+"Thu, Apr 6, 2000",@,L,,L 1,39,Chicago Bulls,90,,88,36
+"Sat, Apr 8, 2000",,W,,W 1,39,New Jersey Nets,101,,109,37
+"Mon, Apr 10, 2000",,W,,W 2,39,Orlando Magic,87,,104,38
+"Wed, Apr 12, 2000",@,W,,W 3,39,Cleveland Cavaliers,100,,101,39
+"Fri, Apr 14, 2000",,L,,L 1,40,Charlotte Hornets,109,OT,106,39
+"Sat, Apr 15, 2000",@,W,,W 1,40,Washington Wizards,116,OT,120,40
+"Mon, Apr 17, 2000",@,W,,W 2,40,Orlando Magic,83,,85,41
+"Wed, Apr 19, 2000",,W,,W 3,40,Washington Wizards,105,,110,42

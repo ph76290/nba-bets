@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Tue, Oct 28, 2003",,W,10:30p,W 1,0,Dallas Mavericks,93,,109,1
+"Sat, Nov 1, 2003",@,W,9:00p,W 2,0,Phoenix Suns,99,,103,2
+"Sun, Nov 2, 2003",,W,9:30p,W 3,0,Golden State Warriors,72,,87,3
+"Tue, Nov 4, 2003",@,W,8:00p,W 4,0,Milwaukee Bucks,107,,113,4
+"Thu, Nov 6, 2003",@,W,9:30p,W 5,0,San Antonio Spurs,117,2OT,120,5
+"Fri, Nov 7, 2003",@,L,8:00p,L 1,1,New Orleans Hornets,114,,95,5
+"Mon, Nov 10, 2003",@,L,8:00p,L 2,2,Memphis Grizzlies,105,,95,5
+"Wed, Nov 12, 2003",,W,10:30p,W 1,2,Toronto Raptors,79,,94,6
+"Fri, Nov 14, 2003",,W,10:30p,W 2,2,Detroit Pistons,89,,94,7
+"Sun, Nov 16, 2003",,W,9:30p,W 3,2,Miami Heat,77,,99,8
+"Tue, Nov 18, 2003",@,L,7:30p,L 1,3,Detroit Pistons,106,,96,8
+"Wed, Nov 19, 2003",@,W,7:30p,W 1,3,New York Knicks,83,,104,9
+"Fri, Nov 21, 2003",,W,10:30p,W 2,3,Chicago Bulls,94,,101,10
+"Sun, Nov 23, 2003",,W,9:30p,W 3,3,Memphis Grizzlies,89,,121,11
+"Wed, Nov 26, 2003",,W,10:30p,W 4,3,Washington Wizards,99,,120,12
+"Fri, Nov 28, 2003",,W,10:30p,W 5,3,San Antonio Spurs,87,,103,13
+"Sun, Nov 30, 2003",,W,9:30p,W 6,3,Indiana Pacers,77,,99,14
+"Wed, Dec 3, 2003",@,W,8:30p,W 7,3,San Antonio Spurs,86,,90,15
+"Thu, Dec 4, 2003",@,W,9:30p,W 8,3,Dallas Mavericks,103,,114,16
+"Sun, Dec 7, 2003",,W,9:30p,W 9,3,Utah Jazz,92,,94,17
+"Tue, Dec 9, 2003",,W,10:30p,W 10,3,New York Knicks,90,,98,18
+"Fri, Dec 12, 2003",,L,10:30p,L 1,4,Dallas Mavericks,110,,93,18
+"Sat, Dec 13, 2003",@,L,10:00p,L 2,5,Portland Trail Blazers,112,,108,18
+"Fri, Dec 19, 2003",,W,10:30p,W 1,5,Denver Nuggets,99,,101,19
+"Sun, Dec 21, 2003",,W,9:30p,W 2,5,Phoenix Suns,101,,107,20
+"Tue, Dec 23, 2003",@,L,10:30p,L 1,6,Golden State Warriors,107,,98,20
+"Thu, Dec 25, 2003",,L,8:30p,L 2,7,Houston Rockets,99,,87,20
+"Sun, Dec 28, 2003",,W,9:30p,W 1,7,Boston Celtics,82,,105,21
+"Fri, Jan 2, 2004",@,L,10:30p,L 1,8,Seattle SuperSonics,111,,109,21
+"Sun, Jan 4, 2004",@,L,9:30p,L 2,9,Los Angeles Clippers,101,,98,21
+"Tue, Jan 6, 2004",@,L,8:00p,L 3,10,Minnesota Timberwolves,106,,90,21
+"Wed, Jan 7, 2004",@,L,9:00p,L 4,11,Denver Nuggets,113,,91,21
+"Fri, Jan 9, 2004",,W,10:30p,W 1,11,Atlanta Hawks,67,,113,22
+"Mon, Jan 12, 2004",,W,10:00p,W 2,11,Cleveland Cavaliers,79,,89,23
+"Wed, Jan 14, 2004",,W,10:30p,W 3,11,Denver Nuggets,71,,97,24
+"Fri, Jan 16, 2004",@,L,10:30p,L 1,12,Sacramento Kings,103,,83,24
+"Sat, Jan 17, 2004",,W,10:30p,W 1,12,Los Angeles Clippers,89,,91,25
+"Mon, Jan 19, 2004",,L,10:30p,L 1,13,Phoenix Suns,88,,85,25
+"Wed, Jan 21, 2004",@,L,8:00p,L 2,14,Memphis Grizzlies,88,,82,25
+"Thu, Jan 22, 2004",@,L,9:30p,L 3,15,Dallas Mavericks,106,,87,25
+"Sat, Jan 24, 2004",@,W,9:00p,W 1,15,Utah Jazz,86,,93,26
+"Wed, Jan 28, 2004",,W,10:30p,W 2,15,Seattle SuperSonics,82,,96,27
+"Fri, Jan 30, 2004",,L,10:30p,L 1,16,Minnesota Timberwolves,97,,84,27
+"Sun, Feb 1, 2004",@,W,12:30p,W 1,16,Toronto Raptors,83,,84,28
+"Mon, Feb 2, 2004",@,L,7:00p,L 1,17,Indiana Pacers,85,,72,28
+"Wed, Feb 4, 2004",@,W,8:00p,W 1,17,Cleveland Cavaliers,106,OT,111,29
+"Thu, Feb 5, 2004",@,L,7:30p,L 1,18,Philadelphia 76ers,96,,73,29
+"Sun, Feb 8, 2004",@,W,12:30p,W 1,18,Orlando Magic,96,,98,30
+"Tue, Feb 10, 2004",@,W,7:30p,W 2,18,Miami Heat,83,,98,31
+"Wed, Feb 11, 2004",@,L,9:00p,L 1,19,Houston Rockets,102,,87,31
+"Tue, Feb 17, 2004",,W,10:30p,W 1,19,Portland Trail Blazers,86,,89,32
+"Wed, Feb 18, 2004",@,W,10:30p,W 2,19,Golden State Warriors,99,,100,33
+"Fri, Feb 20, 2004",,W,10:30p,W 3,19,Philadelphia 76ers,88,,116,34
+"Sun, Feb 22, 2004",@,W,7:00p,W 4,19,Phoenix Suns,92,,104,35
+"Wed, Feb 25, 2004",@,W,9:00p,W 5,19,Denver Nuggets,111,,112,36
+"Thu, Feb 26, 2004",,L,10:30p,L 1,20,Sacramento Kings,103,,101,36
+"Sat, Feb 28, 2004",@,W,3:30p,W 1,20,Washington Wizards,110,,122,37
+"Sun, Feb 29, 2004",@,W,6:00p,W 2,20,New Jersey Nets,83,,100,38
+"Tue, Mar 2, 2004",@,L,7:30p,L 1,21,Atlanta Hawks,94,,93,38
+"Wed, Mar 3, 2004",@,W,9:00p,W 1,21,Houston Rockets,93,,96,39
+"Fri, Mar 5, 2004",,W,10:30p,W 2,21,Seattle SuperSonics,91,,99,40
+"Sun, Mar 7, 2004",,W,3:30p,W 3,21,New Jersey Nets,88,,94,41
+"Mon, Mar 8, 2004",@,L,9:00p,L 1,22,Utah Jazz,88,,83,41
+"Wed, Mar 10, 2004",@,W,7:00p,W 1,22,Boston Celtics,109,,117,42
+"Fri, Mar 12, 2004",@,L,8:00p,L 1,23,Minnesota Timberwolves,96,,86,42
+"Sat, Mar 13, 2004",@,W,8:30p,W 1,23,Chicago Bulls,81,,88,43
+"Mon, Mar 15, 2004",,W,10:30p,W 2,23,Orlando Magic,110,OT,113,44
+"Wed, Mar 17, 2004",@,W,10:30p,W 3,23,Los Angeles Clippers,103,,106,45
+"Fri, Mar 19, 2004",,W,10:30p,W 4,23,Los Angeles Clippers,100,,106,46
+"Sun, Mar 21, 2004",,W,9:30p,W 5,23,Milwaukee Bucks,103,OT,104,47
+"Wed, Mar 24, 2004",,W,10:30p,W 6,23,Sacramento Kings,91,,115,48
+"Fri, Mar 26, 2004",,W,10:30p,W 7,23,Minnesota Timberwolves,73,,90,49
+"Sun, Mar 28, 2004",,W,9:30p,W 8,23,Utah Jazz,84,,91,50
+"Tue, Mar 30, 2004",,W,10:30p,W 9,23,New Orleans Hornets,88,,107,51
+"Thu, Apr 1, 2004",,W,10:30p,W 10,23,Houston Rockets,85,,93,52
+"Fri, Apr 2, 2004",@,W,10:30p,W 11,23,Seattle SuperSonics,86,,97,53
+"Sun, Apr 4, 2004",,L,3:30p,L 1,24,San Antonio Spurs,95,,89,53
+"Tue, Apr 6, 2004",,L,10:00p,L 2,25,Portland Trail Blazers,91,,80,53
+"Fri, Apr 9, 2004",,W,10:30p,W 1,25,Memphis Grizzlies,95,,103,54
+"Sun, Apr 11, 2004",@,L,3:30p,L 1,26,Sacramento Kings,102,,85,54
+"Tue, Apr 13, 2004",,W,10:30p,W 1,26,Golden State Warriors,104,,109,55
+"Wed, Apr 14, 2004",@,W,10:00p,W 2,26,Portland Trail Blazers,104,2OT,105,56

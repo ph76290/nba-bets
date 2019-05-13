@@ -1,0 +1,67 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Sun, Dec 25, 2011",,L,2:30p,L 1,1,Miami Heat,105,,94,0
+"Mon, Dec 26, 2011",,L,8:30p,L 2,2,Denver Nuggets,115,,93,0
+"Thu, Dec 29, 2011",@,L,8:00p,L 3,3,Oklahoma City Thunder,104,,102,0
+"Fri, Dec 30, 2011",,W,8:30p,W 1,3,Toronto Raptors,86,,99,1
+"Sun, Jan 1, 2012",@,L,7:00p,L 1,4,Minnesota Timberwolves,99,,82,1
+"Mon, Jan 2, 2012",,W,8:30p,W 1,4,Oklahoma City Thunder,87,,100,2
+"Wed, Jan 4, 2012",,W,8:30p,W 2,4,Phoenix Suns,89,,98,3
+"Thu, Jan 5, 2012",@,L,8:30p,L 1,5,San Antonio Spurs,93,,71,3
+"Sat, Jan 7, 2012",,W,9:00p,W 1,5,New Orleans Hornets,81,,96,4
+"Tue, Jan 10, 2012",@,W,7:30p,W 2,5,Detroit Pistons,86,,100,5
+"Wed, Jan 11, 2012",@,W,8:00p,W 3,5,Boston Celtics,85,,90,6
+"Fri, Jan 13, 2012",,W,8:30p,W 4,5,Milwaukee Bucks,76,,102,7
+"Sat, Jan 14, 2012",,W,9:00p,W 5,5,Sacramento Kings,60,,99,8
+"Mon, Jan 16, 2012",@,L,10:30p,L 1,6,Los Angeles Lakers,73,,70,8
+"Wed, Jan 18, 2012",@,L,10:30p,L 2,7,Los Angeles Clippers,91,,89,8
+"Thu, Jan 19, 2012",@,W,10:30p,W 1,7,Utah Jazz,91,,94,9
+"Sat, Jan 21, 2012",@,W,8:00p,W 2,7,New Orleans Hornets,81,,83,10
+"Mon, Jan 23, 2012",,W,8:30p,W 3,7,Phoenix Suns,87,,93,11
+"Wed, Jan 25, 2012",,L,8:30p,L 1,8,Minnesota Timberwolves,105,,90,11
+"Fri, Jan 27, 2012",,W,8:30p,W 1,8,Utah Jazz,101,,116,12
+"Sun, Jan 29, 2012",,W,6:30p,W 2,8,San Antonio Spurs,100,OT,101,13
+"Mon, Jan 30, 2012",@,W,9:00p,W 3,8,Phoenix Suns,99,,122,14
+"Wed, Feb 1, 2012",,L,8:00p,L 1,9,Oklahoma City Thunder,95,,86,14
+"Fri, Feb 3, 2012",,L,8:30p,L 2,10,Indiana Pacers,98,,87,14
+"Sat, Feb 4, 2012",@,L,7:30p,L 3,11,Cleveland Cavaliers,91,,88,14
+"Wed, Feb 8, 2012",@,W,9:00p,W 1,11,Denver Nuggets,95,,105,15
+"Fri, Feb 10, 2012",@,W,8:00p,W 2,11,Minnesota Timberwolves,97,,104,16
+"Sat, Feb 11, 2012",,W,8:30p,W 3,11,Portland Trail Blazers,94,2OT,97,17
+"Mon, Feb 13, 2012",,W,8:30p,W 4,11,Los Angeles Clippers,92,,96,18
+"Wed, Feb 15, 2012",,W,8:30p,W 5,11,Denver Nuggets,84,,102,19
+"Fri, Feb 17, 2012",@,W,8:00p,W 6,11,Philadelphia 76ers,75,,82,20
+"Sun, Feb 19, 2012",@,L,1:00p,L 1,12,New York Knicks,104,,97,20
+"Mon, Feb 20, 2012",,W,8:00p,W 1,12,Boston Celtics,73,,89,21
+"Wed, Feb 22, 2012",,L,9:30p,L 1,13,Los Angeles Lakers,96,,91,21
+"Tue, Feb 28, 2012",,L,8:30p,L 2,14,New Jersey Nets,93,,92,21
+"Wed, Feb 29, 2012",@,L,8:00p,L 3,15,Memphis Grizzlies,96,,85,21
+"Fri, Mar 2, 2012",@,L,8:00p,L 4,16,New Orleans Hornets,97,,92,21
+"Sat, Mar 3, 2012",,W,8:30p,W 1,16,Utah Jazz,96,,102,22
+"Mon, Mar 5, 2012",@,L,8:00p,L 1,17,Oklahoma City Thunder,95,,91,22
+"Tue, Mar 6, 2012",,W,8:30p,W 1,17,New York Knicks,85,,95,23
+"Thu, Mar 8, 2012",@,L,10:30p,L 1,18,Phoenix Suns,96,,94,23
+"Fri, Mar 9, 2012",@,L,10:00p,L 2,19,Sacramento Kings,110,,97,23
+"Sat, Mar 10, 2012",@,L,10:30p,L 3,20,Golden State Warriors,111,,87,23
+"Tue, Mar 13, 2012",,W,8:30p,W 1,20,Washington Wizards,98,,107,24
+"Thu, Mar 15, 2012",,W,8:30p,W 2,20,Charlotte Bobcats,96,,101,25
+"Sat, Mar 17, 2012",,W,9:00p,W 3,20,San Antonio Spurs,99,,106,26
+"Mon, Mar 19, 2012",@,W,10:30p,W 4,20,Denver Nuggets,95,,112,27
+"Wed, Mar 21, 2012",,L,9:30p,L 1,21,Los Angeles Lakers,109,,93,27
+"Fri, Mar 23, 2012",@,L,8:30p,L 2,22,San Antonio Spurs,104,,87,27
+"Sat, Mar 24, 2012",@,W,8:00p,W 1,22,Houston Rockets,99,OT,101,28
+"Tue, Mar 27, 2012",,W,8:30p,W 2,22,Houston Rockets,81,,90,29
+"Thu, Mar 29, 2012",@,L,8:00p,L 1,23,Miami Heat,106,,85,29
+"Fri, Mar 30, 2012",@,W,8:00p,W 1,23,Orlando Magic,98,,100,30
+"Mon, Apr 2, 2012",,L,8:30p,L 1,24,Los Angeles Clippers,94,,75,30
+"Wed, Apr 4, 2012",,W,8:30p,W 1,24,Memphis Grizzlies,85,,95,31
+"Fri, Apr 6, 2012",,L,8:30p,L 1,25,Portland Trail Blazers,99,OT,97,31
+"Sat, Apr 7, 2012",@,L,8:00p,L 2,26,Memphis Grizzlies,94,,89,31
+"Tue, Apr 10, 2012",,W,8:30p,W 1,26,Sacramento Kings,100,,110,32
+"Thu, Apr 12, 2012",@,W,10:30p,W 2,26,Golden State Warriors,103,,112,33
+"Fri, Apr 13, 2012",@,W,10:30p,W 3,26,Portland Trail Blazers,94,,97,34
+"Sun, Apr 15, 2012",@,L,3:30p,L 1,27,Los Angeles Lakers,112,OT,108,34
+"Mon, Apr 16, 2012",@,L,9:00p,L 2,28,Utah Jazz,123,3OT,121,34
+"Wed, Apr 18, 2012",,W,8:30p,W 1,28,Houston Rockets,110,,117,35
+"Fri, Apr 20, 2012",,W,8:30p,W 2,28,Golden State Warriors,94,,104,36
+"Sat, Apr 21, 2012",@,L,8:00p,L 1,29,Chicago Bulls,93,,83,36
+"Thu, Apr 26, 2012",@,L,8:00p,L 2,30,Atlanta Hawks,106,,89,36

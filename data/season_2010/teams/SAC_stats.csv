@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Wed, Oct 28, 2009",@,L,8:00p,L 1,1,Oklahoma City Thunder,102,,89,0
+"Fri, Oct 30, 2009",@,L,8:00p,L 2,2,New Orleans Hornets,97,,92,0
+"Sat, Oct 31, 2009",@,L,8:30p,L 3,3,San Antonio Spurs,113,,94,0
+"Mon, Nov 2, 2009",,W,10:00p,W 1,3,Memphis Grizzlies,116,OT,127,1
+"Wed, Nov 4, 2009",,L,10:00p,L 1,4,Atlanta Hawks,113,,105,1
+"Sat, Nov 7, 2009",@,W,9:00p,W 1,4,Utah Jazz,99,,104,2
+"Sun, Nov 8, 2009",,W,9:00p,W 2,4,Golden State Warriors,107,,120,3
+"Tue, Nov 10, 2009",,W,10:00p,W 3,4,Oklahoma City Thunder,98,,101,4
+"Fri, Nov 13, 2009",,W,10:00p,W 4,4,Houston Rockets,100,,109,5
+"Tue, Nov 17, 2009",,L,10:00p,L 1,5,Chicago Bulls,101,,87,5
+"Fri, Nov 20, 2009",@,L,8:30p,L 2,6,Dallas Mavericks,104,,102,5
+"Sat, Nov 21, 2009",@,L,8:30p,L 3,7,Houston Rockets,113,,106,5
+"Mon, Nov 23, 2009",@,L,8:00p,L 4,8,Memphis Grizzlies,116,,105,5
+"Wed, Nov 25, 2009",,W,10:00p,W 1,8,New York Knicks,97,,111,6
+"Fri, Nov 27, 2009",,W,10:00p,W 2,8,New Jersey Nets,96,,109,7
+"Sun, Nov 29, 2009",,W,9:00p,W 3,8,New Orleans Hornets,96,,112,8
+"Wed, Dec 2, 2009",,W,10:00p,W 4,8,Indiana Pacers,105,,110,9
+"Sat, Dec 5, 2009",@,L,9:00p,L 1,9,Phoenix Suns,115,,107,9
+"Sun, Dec 6, 2009",,L,9:00p,L 2,10,Miami Heat,115,,102,9
+"Tue, Dec 8, 2009",@,L,8:00p,L 3,11,New Orleans Hornets,96,,94,9
+"Wed, Dec 9, 2009",@,L,8:30p,L 4,12,San Antonio Spurs,118,,106,9
+"Sat, Dec 12, 2009",,W,10:00p,W 1,12,Minnesota Timberwolves,100,,120,10
+"Tue, Dec 15, 2009",@,L,10:00p,L 1,13,Portland Trail Blazers,95,,88,10
+"Wed, Dec 16, 2009",,W,10:30p,W 1,13,Washington Wizards,109,,112,11
+"Fri, Dec 18, 2009",@,L,8:00p,L 1,14,Minnesota Timberwolves,112,,96,11
+"Sat, Dec 19, 2009",@,W,8:30p,W 1,14,Milwaukee Bucks,95,,96,12
+"Mon, Dec 21, 2009",@,W,8:00p,W 2,14,Chicago Bulls,98,,102,13
+"Wed, Dec 23, 2009",,L,10:00p,L 1,15,Cleveland Cavaliers,117,OT,104,13
+"Sat, Dec 26, 2009",,L,10:00p,L 2,16,Los Angeles Lakers,112,2OT,103,13
+"Mon, Dec 28, 2009",,W,10:00p,W 1,16,Denver Nuggets,101,,106,14
+"Wed, Dec 30, 2009",,L,10:00p,L 1,17,Philadelphia 76ers,116,,106,14
+"Fri, Jan 1, 2010",@,L,10:30p,L 2,18,Los Angeles Lakers,109,,108,14
+"Sat, Jan 2, 2010",,L,10:00p,L 3,19,Dallas Mavericks,99,,91,14
+"Tue, Jan 5, 2010",,L,10:00p,L 4,20,Phoenix Suns,113,,109,14
+"Fri, Jan 8, 2010",@,L,10:30p,L 5,21,Golden State Warriors,108,,101,14
+"Sat, Jan 9, 2010",,W,10:00p,W 1,21,Denver Nuggets,100,,102,15
+"Tue, Jan 12, 2010",,L,10:00p,L 1,22,Orlando Magic,109,,88,15
+"Fri, Jan 15, 2010",@,L,7:00p,L 2,23,Philadelphia 76ers,98,,86,15
+"Sat, Jan 16, 2010",@,L,7:00p,L 3,24,Washington Wizards,96,,86,15
+"Mon, Jan 18, 2010",@,L,2:00p,L 4,25,Charlotte Bobcats,105,,103,15
+"Wed, Jan 20, 2010",@,L,7:00p,L 5,26,Atlanta Hawks,108,,97,15
+"Fri, Jan 22, 2010",@,L,7:00p,L 6,27,Orlando Magic,100,,84,15
+"Sat, Jan 23, 2010",@,L,7:30p,L 7,28,Miami Heat,115,,84,15
+"Tue, Jan 26, 2010",,W,10:00p,W 1,28,Golden State Warriors,96,,99,16
+"Fri, Jan 29, 2010",@,L,9:00p,L 1,29,Utah Jazz,101,,94,16
+"Sat, Jan 30, 2010",,L,10:00p,L 2,30,Charlotte Bobcats,103,,96,16
+"Mon, Feb 1, 2010",@,L,9:00p,L 3,31,Denver Nuggets,112,OT,109,16
+"Wed, Feb 3, 2010",,L,10:00p,L 4,32,San Antonio Spurs,115,,113,16
+"Fri, Feb 5, 2010",,L,10:00p,L 5,33,Phoenix Suns,114,,102,16
+"Sun, Feb 7, 2010",@,L,12:00p,L 6,34,Toronto Raptors,115,,104,16
+"Tue, Feb 9, 2010",@,W,7:30p,W 1,34,New York Knicks,114,OT,118,17
+"Wed, Feb 10, 2010",@,W,7:30p,W 2,34,Detroit Pistons,97,,103,18
+"Tue, Feb 16, 2010",,L,10:00p,L 1,35,Boston Celtics,95,,92,18
+"Wed, Feb 17, 2010",@,L,10:30p,L 2,36,Golden State Warriors,130,,98,18
+"Sat, Feb 20, 2010",@,L,10:30p,L 3,37,Los Angeles Clippers,99,,89,18
+"Sun, Feb 21, 2010",@,L,8:00p,L 4,38,Phoenix Suns,104,,88,18
+"Tue, Feb 23, 2010",,L,10:00p,L 5,39,Detroit Pistons,101,,89,18
+"Fri, Feb 26, 2010",,W,10:00p,W 1,39,Utah Jazz,99,,103,19
+"Sun, Feb 28, 2010",,W,9:00p,W 2,39,Los Angeles Clippers,92,,97,20
+"Tue, Mar 2, 2010",@,L,8:00p,L 1,40,Oklahoma City Thunder,113,,107,20
+"Wed, Mar 3, 2010",@,W,8:30p,W 1,40,Houston Rockets,81,,84,21
+"Fri, Mar 5, 2010",@,L,8:30p,L 1,41,Dallas Mavericks,108,,100,21
+"Sun, Mar 7, 2010",,L,9:00p,L 2,42,Oklahoma City Thunder,108,,102,21
+"Tue, Mar 9, 2010",@,L,10:00p,L 3,43,Portland Trail Blazers,88,,81,21
+"Wed, Mar 10, 2010",,W,10:00p,W 1,43,Toronto Raptors,90,,113,22
+"Fri, Mar 12, 2010",,L,10:00p,L 1,44,Portland Trail Blazers,110,,94,22
+"Sun, Mar 14, 2010",,W,9:00p,W 1,44,Minnesota Timberwolves,100,,114,23
+"Tue, Mar 16, 2010",,L,10:00p,L 1,45,Los Angeles Lakers,106,,99,23
+"Fri, Mar 19, 2010",,L,10:00p,L 2,46,Milwaukee Bucks,114,2OT,108,23
+"Sun, Mar 21, 2010",@,W,3:30p,W 1,46,Los Angeles Clippers,89,,102,24
+"Mon, Mar 22, 2010",,L,10:00p,L 1,47,Memphis Grizzlies,102,,85,24
+"Wed, Mar 24, 2010",@,L,7:30p,L 2,48,New Jersey Nets,93,,79,24
+"Fri, Mar 26, 2010",@,L,7:30p,L 3,49,Boston Celtics,94,,86,24
+"Sun, Mar 28, 2010",@,L,3:00p,L 4,50,Cleveland Cavaliers,97,,90,24
+"Tue, Mar 30, 2010",@,L,7:00p,L 5,51,Indiana Pacers,102,,95,24
+"Wed, Mar 31, 2010",@,L,8:00p,L 6,52,Minnesota Timberwolves,108,,99,24
+"Sat, Apr 3, 2010",,L,10:00p,L 7,53,Portland Trail Blazers,98,,87,24
+"Tue, Apr 6, 2010",,L,10:00p,L 8,54,San Antonio Spurs,95,,86,24
+"Thu, Apr 8, 2010",,W,10:00p,W 1,54,Los Angeles Clippers,94,,116,25
+"Sat, Apr 10, 2010",,L,10:00p,L 1,55,Dallas Mavericks,126,,108,25
+"Mon, Apr 12, 2010",,L,10:00p,L 2,56,Houston Rockets,117,,107,25
+"Tue, Apr 13, 2010",@,L,10:30p,L 3,57,Los Angeles Lakers,106,,100,25

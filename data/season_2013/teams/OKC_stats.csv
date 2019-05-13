@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Thu, Nov 1, 2012",@,L,9:30p,L 1,1,San Antonio Spurs,86,,84,0
+"Fri, Nov 2, 2012",,W,8:00p,W 1,1,Portland Trail Blazers,92,,106,1
+"Sun, Nov 4, 2012",,L,7:00p,L 1,2,Atlanta Hawks,104,,95,1
+"Tue, Nov 6, 2012",,W,8:00p,W 1,2,Toronto Raptors,88,,108,2
+"Thu, Nov 8, 2012",@,W,8:00p,W 2,2,Chicago Bulls,91,,97,3
+"Fri, Nov 9, 2012",,W,8:00p,W 3,2,Detroit Pistons,94,,105,4
+"Sun, Nov 11, 2012",,W,7:00p,W 4,2,Cleveland Cavaliers,91,,106,5
+"Mon, Nov 12, 2012",@,W,7:30p,W 5,2,Detroit Pistons,90,,92,6
+"Wed, Nov 14, 2012",,L,8:00p,L 1,3,Memphis Grizzlies,107,,97,6
+"Fri, Nov 16, 2012",@,W,8:00p,W 1,3,New Orleans Hornets,95,,110,7
+"Sun, Nov 18, 2012",,W,7:00p,W 2,3,Golden State Warriors,109,,119,8
+"Wed, Nov 21, 2012",,W,7:30p,W 3,3,Los Angeles Clippers,111,OT,117,9
+"Fri, Nov 23, 2012",@,L,7:30p,L 1,4,Boston Celtics,108,,100,9
+"Sat, Nov 24, 2012",@,W,7:00p,W 1,4,Philadelphia 76ers,109,OT,116,10
+"Mon, Nov 26, 2012",,W,8:00p,W 2,4,Charlotte Bobcats,69,,114,11
+"Wed, Nov 28, 2012",,W,8:00p,W 3,4,Houston Rockets,98,,120,12
+"Fri, Nov 30, 2012",,W,8:00p,W 4,4,Utah Jazz,94,,106,13
+"Sat, Dec 1, 2012",@,W,8:00p,W 5,4,New Orleans Hornets,79,,100,14
+"Tue, Dec 4, 2012",@,W,7:30p,W 6,4,Brooklyn Nets,111,,117,15
+"Fri, Dec 7, 2012",,W,9:30p,W 7,4,Los Angeles Lakers,108,,114,16
+"Sun, Dec 9, 2012",,W,7:00p,W 8,4,Indiana Pacers,93,,104,17
+"Wed, Dec 12, 2012",,W,8:00p,W 9,4,New Orleans Hornets,88,,92,18
+"Fri, Dec 14, 2012",,W,8:00p,W 10,4,Sacramento Kings,103,,113,19
+"Mon, Dec 17, 2012",,W,8:00p,W 11,4,San Antonio Spurs,93,,107,20
+"Wed, Dec 19, 2012",@,W,7:30p,W 12,4,Atlanta Hawks,92,,100,21
+"Thu, Dec 20, 2012",@,L,7:00p,L 1,5,Minnesota Timberwolves,99,,93,21
+"Tue, Dec 25, 2012",@,L,5:30p,L 2,6,Miami Heat,103,,97,21
+"Thu, Dec 27, 2012",,W,8:00p,W 1,6,Dallas Mavericks,105,OT,111,22
+"Sat, Dec 29, 2012",@,W,8:00p,W 2,6,Houston Rockets,94,,124,23
+"Mon, Dec 31, 2012",,W,8:00p,W 3,6,Phoenix Suns,96,,114,24
+"Wed, Jan 2, 2013",,L,8:00p,L 1,7,Brooklyn Nets,110,,93,24
+"Fri, Jan 4, 2013",,W,8:00p,W 1,7,Philadelphia 76ers,85,,109,25
+"Sun, Jan 6, 2013",@,W,1:00p,W 2,7,Toronto Raptors,92,,104,26
+"Mon, Jan 7, 2013",@,L,7:00p,L 1,8,Washington Wizards,101,,99,26
+"Wed, Jan 9, 2013",,W,8:00p,W 1,8,Minnesota Timberwolves,84,,106,27
+"Fri, Jan 11, 2013",@,W,10:30p,W 2,8,Los Angeles Lakers,101,,116,28
+"Sun, Jan 13, 2013",@,W,9:00p,W 3,8,Portland Trail Blazers,83,,87,29
+"Mon, Jan 14, 2013",@,W,9:00p,W 4,8,Phoenix Suns,90,,102,30
+"Wed, Jan 16, 2013",,W,8:00p,W 5,8,Denver Nuggets,97,,117,31
+"Fri, Jan 18, 2013",@,W,9:30p,W 6,8,Dallas Mavericks,114,OT,117,32
+"Sun, Jan 20, 2013",@,L,8:00p,L 1,9,Denver Nuggets,121,OT,118,32
+"Tue, Jan 22, 2013",@,W,10:30p,W 1,9,Los Angeles Clippers,97,,109,33
+"Wed, Jan 23, 2013",@,L,10:30p,L 1,10,Golden State Warriors,104,,99,33
+"Fri, Jan 25, 2013",@,W,10:00p,W 1,10,Sacramento Kings,95,,105,34
+"Sun, Jan 27, 2013",@,L,3:30p,L 1,11,Los Angeles Lakers,105,,96,34
+"Thu, Jan 31, 2013",,W,8:00p,W 1,11,Memphis Grizzlies,89,,106,35
+"Sat, Feb 2, 2013",@,L,7:30p,L 1,12,Cleveland Cavaliers,115,,110,35
+"Mon, Feb 4, 2013",,W,8:00p,W 1,12,Dallas Mavericks,91,,112,36
+"Wed, Feb 6, 2013",,W,8:00p,W 2,12,Golden State Warriors,98,,119,37
+"Fri, Feb 8, 2013",,W,8:00p,W 3,12,Phoenix Suns,96,,127,38
+"Sun, Feb 10, 2013",@,W,8:00p,W 4,12,Phoenix Suns,69,,97,39
+"Tue, Feb 12, 2013",@,L,9:00p,L 1,13,Utah Jazz,109,,94,39
+"Thu, Feb 14, 2013",,L,8:00p,L 2,14,Miami Heat,110,,100,39
+"Wed, Feb 20, 2013",@,L,8:00p,L 3,15,Houston Rockets,122,,119,39
+"Fri, Feb 22, 2013",,W,8:00p,W 1,15,Minnesota Timberwolves,111,,127,40
+"Sun, Feb 24, 2013",,W,9:30p,W 2,15,Chicago Bulls,72,,102,41
+"Wed, Feb 27, 2013",,W,8:00p,W 3,15,New Orleans Hornets,74,,119,42
+"Fri, Mar 1, 2013",@,L,10:30p,L 1,16,Denver Nuggets,105,,103,42
+"Sun, Mar 3, 2013",@,W,3:30p,W 1,16,Los Angeles Clippers,104,,108,43
+"Tue, Mar 5, 2013",,W,9:30p,W 2,16,Los Angeles Lakers,105,,122,44
+"Thu, Mar 7, 2013",@,W,8:00p,W 3,16,New York Knicks,94,,95,45
+"Fri, Mar 8, 2013",@,W,7:00p,W 4,16,Charlotte Bobcats,94,,116,46
+"Sun, Mar 10, 2013",,W,1:00p,W 5,16,Boston Celtics,79,,91,47
+"Mon, Mar 11, 2013",@,L,8:30p,L 1,17,San Antonio Spurs,105,,93,47
+"Wed, Mar 13, 2013",,W,8:00p,W 1,17,Utah Jazz,87,,110,48
+"Fri, Mar 15, 2013",,W,8:00p,W 2,17,Orlando Magic,104,,117,49
+"Sun, Mar 17, 2013",@,W,7:30p,W 3,17,Dallas Mavericks,101,,107,50
+"Tue, Mar 19, 2013",,L,8:00p,L 1,18,Denver Nuggets,114,,104,50
+"Wed, Mar 20, 2013",@,L,8:00p,L 2,19,Memphis Grizzlies,90,OT,89,50
+"Fri, Mar 22, 2013",@,W,7:00p,W 1,19,Orlando Magic,89,,97,51
+"Sun, Mar 24, 2013",,W,7:00p,W 2,19,Portland Trail Blazers,83,,103,52
+"Wed, Mar 27, 2013",,W,8:00p,W 3,19,Washington Wizards,80,,103,53
+"Fri, Mar 29, 2013",@,L,8:00p,L 1,20,Minnesota Timberwolves,101,,93,53
+"Sat, Mar 30, 2013",@,W,8:30p,W 1,20,Milwaukee Bucks,99,,109,54
+"Thu, Apr 4, 2013",,W,9:30p,W 2,20,San Antonio Spurs,88,,100,55
+"Fri, Apr 5, 2013",@,W,8:00p,W 3,20,Indiana Pacers,75,,97,56
+"Sun, Apr 7, 2013",,L,1:00p,L 1,21,New York Knicks,125,,120,56
+"Tue, Apr 9, 2013",@,W,9:00p,W 1,21,Utah Jazz,80,,90,57
+"Thu, Apr 11, 2013",@,W,10:30p,W 2,21,Golden State Warriors,97,,116,58
+"Fri, Apr 12, 2013",@,W,10:00p,W 3,21,Portland Trail Blazers,90,,106,59
+"Mon, Apr 15, 2013",,W,8:00p,W 4,21,Sacramento Kings,95,,104,60
+"Wed, Apr 17, 2013",,L,8:00p,L 1,22,Milwaukee Bucks,95,,89,60

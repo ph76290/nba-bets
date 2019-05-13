@@ -1,0 +1,83 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Wed, Nov 2, 2005",,W,8:00p,W 1,0,Philadelphia 76ers,88,,108,1
+"Fri, Nov 4, 2005",@,W,7:30p,W 2,0,Boston Celtics,81,,82,2
+"Sat, Nov 5, 2005",,W,7:30p,W 3,0,Toronto Raptors,84,,117,3
+"Tue, Nov 8, 2005",@,W,10:00p,W 4,0,Sacramento Kings,88,,102,4
+"Thu, Nov 10, 2005",@,W,10:30p,W 5,0,Phoenix Suns,104,,111,5
+"Fri, Nov 11, 2005",@,W,10:30p,W 6,0,Portland Trail Blazers,81,,84,6
+"Tue, Nov 15, 2005",,W,7:30p,W 7,0,Boston Celtics,100,,115,7
+"Fri, Nov 18, 2005",@,W,9:30p,W 8,0,Houston Rockets,70,,78,8
+"Sat, Nov 19, 2005",@,L,8:30p,L 1,1,Dallas Mavericks,119,,82,8
+"Wed, Nov 23, 2005",,W,7:30p,W 1,1,Denver Nuggets,89,,114,9
+"Fri, Nov 25, 2005",,L,8:00p,L 1,2,Washington Wizards,120,2OT,114,9
+"Sat, Nov 26, 2005",@,W,9:00p,W 1,2,Milwaukee Bucks,76,,85,10
+"Wed, Nov 30, 2005",@,W,7:30p,W 2,2,New Jersey Nets,83,,93,11
+"Fri, Dec 2, 2005",,W,8:00p,W 3,2,New York Knicks,98,,106,12
+"Sat, Dec 3, 2005",@,W,8:30p,W 4,2,Chicago Bulls,79,,92,13
+"Fri, Dec 9, 2005",@,W,10:30p,W 5,2,Golden State Warriors,103,,106,14
+"Sun, Dec 11, 2005",@,W,9:00p,W 6,2,Los Angeles Clippers,101,,109,15
+"Mon, Dec 12, 2005",@,L,9:00p,L 1,3,Utah Jazz,92,,78,15
+"Wed, Dec 14, 2005",,W,7:30p,W 1,3,Sacramento Kings,98,,109,16
+"Fri, Dec 16, 2005",,W,8:00p,W 2,3,Chicago Bulls,82,,110,17
+"Sat, Dec 17, 2005",@,W,7:30p,W 3,3,Charlotte Bobcats,78,,103,18
+"Mon, Dec 19, 2005",@,W,8:00p,W 4,3,Memphis Grizzlies,104,2OT,106,19
+"Tue, Dec 20, 2005",,W,7:30p,W 5,3,Portland Trail Blazers,89,,93,20
+"Fri, Dec 23, 2005",,W,8:00p,W 6,3,Golden State Warriors,85,,97,21
+"Sun, Dec 25, 2005",,W,12:30p,W 7,3,San Antonio Spurs,70,,85,22
+"Tue, Dec 27, 2005",,W,7:30p,W 8,3,Toronto Raptors,106,,113,23
+"Thu, Dec 29, 2005",,W,8:00p,W 9,3,Miami Heat,101,,106,24
+"Sat, Dec 31, 2005",@,L,1:30p,L 1,4,Cleveland Cavaliers,97,,84,24
+"Tue, Jan 3, 2006",,W,7:30p,W 1,4,Orlando Magic,99,,108,25
+"Fri, Jan 6, 2006",,W,8:00p,W 2,4,Seattle SuperSonics,85,,97,26
+"Sat, Jan 7, 2006",,L,7:30p,L 1,5,Utah Jazz,94,OT,90,26
+"Tue, Jan 10, 2006",@,W,8:00p,W 1,5,New Orleans/Oklahoma City Hornets,86,,96,27
+"Thu, Jan 12, 2006",@,W,8:00p,W 2,5,San Antonio Spurs,68,,83,28
+"Sat, Jan 14, 2006",,W,7:30p,W 3,5,Charlotte Bobcats,91,,114,29
+"Mon, Jan 16, 2006",,W,3:30p,W 4,5,Boston Celtics,84,,94,30
+"Wed, Jan 18, 2006",@,W,7:00p,W 5,5,Atlanta Hawks,89,,117,31
+"Thu, Jan 19, 2006",@,W,8:00p,W 6,5,New York Knicks,79,,105,32
+"Sun, Jan 22, 2006",,W,6:00p,W 7,5,Houston Rockets,97,,99,33
+"Tue, Jan 24, 2006",@,W,8:00p,W 8,5,Minnesota Timberwolves,83,,107,34
+"Wed, Jan 25, 2006",,W,7:30p,W 9,5,Milwaukee Bucks,102,OT,106,35
+"Fri, Jan 27, 2006",,W,8:00p,W 10,5,Memphis Grizzlies,89,,95,36
+"Sun, Jan 29, 2006",,W,6:30p,W 11,5,Los Angeles Lakers,93,,102,37
+"Tue, Jan 31, 2006",@,L,7:30p,L 1,6,New Jersey Nets,91,,84,37
+"Wed, Feb 1, 2006",,W,7:30p,W 1,6,Minnesota Timberwolves,74,,90,38
+"Fri, Feb 3, 2006",@,W,8:00p,W 2,6,Philadelphia 76ers,80,,87,39
+"Sat, Feb 4, 2006",@,L,8:00p,L 1,7,Indiana Pacers,93,,85,39
+"Tue, Feb 7, 2006",@,L,7:00p,L 2,8,Atlanta Hawks,99,,98,39
+"Wed, Feb 8, 2006",,W,7:30p,W 1,8,Los Angeles Clippers,87,,97,40
+"Fri, Feb 10, 2006",@,W,7:00p,W 2,8,Orlando Magic,73,,84,41
+"Sun, Feb 12, 2006",@,L,3:30p,L 1,9,Miami Heat,100,,98,41
+"Tue, Feb 14, 2006",,W,7:30p,W 1,9,New Jersey Nets,71,,85,42
+"Tue, Feb 21, 2006",,W,7:30p,W 2,9,Atlanta Hawks,87,,97,43
+"Thu, Feb 23, 2006",,W,8:00p,W 3,9,Indiana Pacers,83,,88,44
+"Fri, Feb 24, 2006",@,W,8:30p,W 4,9,Chicago Bulls,87,,95,45
+"Sun, Feb 26, 2006",,W,12:00p,W 5,9,Cleveland Cavaliers,78,,90,46
+"Mon, Feb 27, 2006",@,W,7:00p,W 6,9,Cleveland Cavaliers,72,,84,47
+"Wed, Mar 1, 2006",@,L,9:00p,L 1,10,Denver Nuggets,98,,87,47
+"Fri, Mar 3, 2006",@,W,10:30p,W 1,10,Seattle SuperSonics,96,,98,48
+"Sat, Mar 4, 2006",@,L,10:30p,L 1,11,Los Angeles Lakers,105,,94,48
+"Wed, Mar 8, 2006",,W,7:30p,W 1,11,Chicago Bulls,101,,106,49
+"Sat, Mar 11, 2006",@,L,7:00p,L 1,12,Washington Wizards,110,,92,49
+"Sun, Mar 12, 2006",,W,6:00p,W 1,12,Charlotte Bobcats,78,,94,50
+"Wed, Mar 15, 2006",@,W,7:00p,W 2,12,Toronto Raptors,98,,105,51
+"Fri, Mar 17, 2006",@,L,7:30p,L 1,13,New York Knicks,105,,103,51
+"Sat, Mar 18, 2006",@,W,7:30p,W 1,13,Charlotte Bobcats,103,,108,52
+"Mon, Mar 20, 2006",,W,7:30p,W 2,13,Atlanta Hawks,84,,91,53
+"Wed, Mar 22, 2006",,W,8:00p,W 3,13,Miami Heat,73,,82,54
+"Fri, Mar 24, 2006",@,W,7:00p,W 4,13,Indiana Pacers,72,,75,55
+"Sun, Mar 26, 2006",,L,7:30p,L 1,14,New Jersey Nets,79,,74,55
+"Tue, Mar 28, 2006",,W,7:30p,W 1,14,Dallas Mavericks,90,,97,56
+"Wed, Mar 29, 2006",@,W,7:30p,W 2,14,Philadelphia 76ers,91,,101,57
+"Fri, Mar 31, 2006",,W,8:00p,W 3,14,Milwaukee Bucks,105,,112,58
+"Sun, Apr 2, 2006",,W,1:00p,W 4,14,Phoenix Suns,102,,109,59
+"Tue, Apr 4, 2006",,W,7:30p,W 5,14,New Orleans/Oklahoma City Hornets,93,,101,60
+"Thu, Apr 6, 2006",@,W,8:00p,W 6,14,Miami Heat,82,,95,61
+"Fri, Apr 7, 2006",@,L,7:00p,L 1,15,Orlando Magic,89,,87,61
+"Sun, Apr 9, 2006",,W,1:00p,W 1,15,Indiana Pacers,73,,98,62
+"Wed, Apr 12, 2006",,W,8:00p,W 2,15,Cleveland Cavaliers,73,,96,63
+"Fri, Apr 14, 2006",@,L,7:00p,L 1,16,Toronto Raptors,108,,103,63
+"Sun, Apr 16, 2006",,W,6:00p,W 1,16,New York Knicks,97,,103,64
+"Mon, Apr 17, 2006",@,L,8:00p,L 1,17,Milwaukee Bucks,113,,93,64
+"Wed, Apr 19, 2006",,L,7:30p,L 2,18,Washington Wizards,96,,80,64

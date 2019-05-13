@@ -1,0 +1,67 @@
+date_game,game_location,game_result,game_start_time,game_streak,losses,opp_name,opp_pts,overtimes,pts,wins
+"Mon, Dec 26, 2011",@,L,7:00p,L 1,1,Indiana Pacers,91,,79,0
+"Wed, Dec 28, 2011",,L,7:30p,L 2,2,Cleveland Cavaliers,105,,89,0
+"Fri, Dec 30, 2011",@,L,7:30p,L 3,3,Boston Celtics,96,,85,0
+"Sat, Dec 31, 2011",,W,6:00p,W 1,3,Indiana Pacers,88,,96,1
+"Mon, Jan 2, 2012",,W,7:30p,W 2,3,Orlando Magic,78,,89,2
+"Wed, Jan 4, 2012",,L,7:30p,L 1,4,Chicago Bulls,99,,83,2
+"Fri, Jan 6, 2012",@,L,7:00p,L 2,5,Philadelphia 76ers,96,,73,2
+"Sat, Jan 7, 2012",,L,7:30p,L 3,6,New York Knicks,103,,80,2
+"Mon, Jan 9, 2012",@,L,8:00p,L 4,7,Chicago Bulls,92,,68,2
+"Tue, Jan 10, 2012",,L,7:30p,L 5,8,Dallas Mavericks,100,,86,2
+"Thu, Jan 12, 2012",@,L,8:00p,L 6,9,Milwaukee Bucks,102,,93,2
+"Fri, Jan 13, 2012",@,W,7:00p,W 1,9,Charlotte Bobcats,81,,98,3
+"Sun, Jan 15, 2012",,L,6:00p,L 1,10,Golden State Warriors,99,,91,3
+"Tue, Jan 17, 2012",@,L,8:00p,L 2,11,Houston Rockets,97,,80,3
+"Wed, Jan 18, 2012",@,L,8:00p,L 3,12,Minnesota Timberwolves,93,,85,3
+"Fri, Jan 20, 2012",,L,7:30p,L 4,13,Memphis Grizzlies,98,,81,3
+"Sat, Jan 21, 2012",,W,7:30p,W 1,13,Portland Trail Blazers,91,,94,4
+"Mon, Jan 23, 2012",@,L,8:00p,L 1,14,Oklahoma City Thunder,99,,79,4
+"Wed, Jan 25, 2012",,L,7:30p,L 2,15,Miami Heat,101,,98,4
+"Fri, Jan 27, 2012",,L,7:30p,L 3,16,Atlanta Hawks,107,OT,101,4
+"Sat, Jan 28, 2012",@,L,7:00p,L 4,17,Philadelphia 76ers,95,,74,4
+"Mon, Jan 30, 2012",@,L,8:00p,L 5,18,Milwaukee Bucks,103,,82,4
+"Tue, Jan 31, 2012",@,L,7:30p,L 6,19,New York Knicks,113,,86,4
+"Wed, Feb 1, 2012",@,L,7:30p,L 7,20,New Jersey Nets,99,,96,4
+"Fri, Feb 3, 2012",,W,7:30p,W 1,20,Milwaukee Bucks,80,,88,5
+"Sat, Feb 4, 2012",,W,7:30p,W 2,20,New Orleans Hornets,87,,89,6
+"Wed, Feb 8, 2012",@,W,7:30p,W 3,20,New Jersey Nets,92,,99,7
+"Fri, Feb 10, 2012",,W,7:30p,W 4,20,New Jersey Nets,92,,109,8
+"Sun, Feb 12, 2012",,L,6:00p,L 1,21,Washington Wizards,98,,77,8
+"Tue, Feb 14, 2012",,L,7:30p,L 2,22,San Antonio Spurs,99,,95,8
+"Wed, Feb 15, 2012",@,W,7:30p,W 1,22,Boston Celtics,88,,98,9
+"Fri, Feb 17, 2012",,W,7:30p,W 2,22,Sacramento Kings,108,,114,10
+"Sun, Feb 19, 2012",,W,6:00p,W 3,22,Boston Celtics,81,,96,11
+"Tue, Feb 21, 2012",@,L,7:00p,L 1,23,Cleveland Cavaliers,101,,100,11
+"Wed, Feb 22, 2012",@,L,7:00p,L 2,24,Toronto Raptors,103,,93,11
+"Tue, Feb 28, 2012",,L,7:30p,L 3,25,Philadelphia 76ers,97,,68,11
+"Wed, Feb 29, 2012",,W,7:30p,W 1,25,Charlotte Bobcats,94,,109,12
+"Sat, Mar 3, 2012",@,L,8:00p,L 1,26,Memphis Grizzlies,100,,83,12
+"Tue, Mar 6, 2012",,W,7:30p,W 1,26,Los Angeles Lakers,85,OT,88,13
+"Fri, Mar 9, 2012",,W,7:30p,W 2,26,Atlanta Hawks,85,,86,14
+"Sat, Mar 10, 2012",,W,7:30p,W 3,26,Toronto Raptors,86,,105,15
+"Mon, Mar 12, 2012",@,L,9:00p,L 1,27,Utah Jazz,105,,90,15
+"Wed, Mar 14, 2012",@,W,10:00p,W 1,27,Sacramento Kings,112,,124,16
+"Fri, Mar 16, 2012",@,L,10:00p,L 1,28,Phoenix Suns,109,,101,16
+"Sun, Mar 18, 2012",@,L,3:30p,L 2,29,Los Angeles Clippers,87,OT,83,16
+"Wed, Mar 21, 2012",@,L,9:00p,L 3,30,Denver Nuggets,116,,115,16
+"Fri, Mar 23, 2012",,L,7:30p,L 4,31,Miami Heat,88,,73,16
+"Sat, Mar 24, 2012",@,L,7:30p,L 5,32,New York Knicks,101,,79,16
+"Mon, Mar 26, 2012",@,W,7:00p,W 1,32,Washington Wizards,77,,79,17
+"Wed, Mar 28, 2012",@,W,7:00p,W 2,32,Cleveland Cavaliers,75,,87,18
+"Fri, Mar 30, 2012",@,L,8:00p,L 1,33,Chicago Bulls,83,,71,18
+"Sat, Mar 31, 2012",,W,7:30p,W 1,33,Charlotte Bobcats,107,OT,110,19
+"Tue, Apr 3, 2012",,W,7:30p,W 2,33,Orlando Magic,95,,102,20
+"Thu, Apr 5, 2012",,W,7:30p,W 3,33,Washington Wizards,94,,99,21
+"Fri, Apr 6, 2012",@,L,7:30p,L 1,34,Atlanta Hawks,101,,96,21
+"Sun, Apr 8, 2012",@,L,6:00p,L 2,35,Miami Heat,98,,75,21
+"Mon, Apr 9, 2012",@,L,7:00p,L 3,36,Orlando Magic,119,,89,21
+"Thu, Apr 12, 2012",@,W,7:00p,W 1,36,Charlotte Bobcats,85,,109,22
+"Fri, Apr 13, 2012",,L,8:00p,L 1,37,Milwaukee Bucks,113,,97,22
+"Sun, Apr 15, 2012",,L,6:00p,L 2,38,Chicago Bulls,100,OT,94,22
+"Tue, Apr 17, 2012",,W,7:30p,W 1,38,Cleveland Cavaliers,77,,116,23
+"Wed, Apr 18, 2012",@,L,7:30p,L 1,39,Atlanta Hawks,116,,84,23
+"Thu, Apr 19, 2012",,L,7:30p,L 2,40,Minnesota Timberwolves,91,,80,23
+"Sun, Apr 22, 2012",,W,6:00p,W 1,40,Toronto Raptors,73,,76,24
+"Mon, Apr 23, 2012",@,L,7:00p,L 1,41,Indiana Pacers,103,,97,24
+"Thu, Apr 26, 2012",,W,8:00p,W 1,41,Philadelphia 76ers,86,,108,25
