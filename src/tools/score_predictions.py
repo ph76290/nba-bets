@@ -1,5 +1,5 @@
 from statistics import mean, stdev
-from tools import compress
+from tools.tools import compress
 import numpy as np
 
 

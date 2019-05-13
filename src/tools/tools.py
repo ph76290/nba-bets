@@ -81,7 +81,7 @@ def swap_game(s):
     return new_s[1] + '-' + new_s[0]
 
 def get_odds(season):
-    odds = pd.read_csv("data/season_" + str(season) + "/odds/odds.csv")
-    results = pd.read_csv("data/season_" + str(season) + "/teamsdata_processed.csv")['game_result']
+    odds = pd.read_csv("../data/season_" + str(season) + "/odds/odds.csv")
+    results = pd.read_csv("../data/season_" + str(season) + "/teamsdata_processed.csv")['game_result']
     odds['results'] = results
     return odds

@@ -1,7 +1,7 @@
 from keras.utils import np_utils
 from keras.callbacks import EarlyStopping
 from model import lstm_model
-from score_predictions import score_predictions
+from tools.score_predictions import score_predictions
 from matplotlib import pyplot as plt
 
 

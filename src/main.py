@@ -4,10 +4,10 @@ from tensorflow import set_random_seed
 set_random_seed(3)
 from matplotlib import pyplot as plt
 from prediction import predict_teams_result
-from split_dataset import split_dataset
+from tools.split_dataset import split_dataset
 from data_processing import build_train_test_data
-from odds_scraping import read_odds
-from tools import df_describe
+from scraping.odds_scraping import read_odds
+from tools.tools import df_describe
 import os
 
 

@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
-from tools import element_in_string, get_teams, get_team_from_full_name
+from tools.tools import element_in_string, get_teams, get_team_from_full_name
 from datetime import datetime
 import pandas as pd
 import numpy as np
@@ -16,9 +16,9 @@ url_season_stats = '_games.html'
 def fetch_all_stats(seasons, teams, rewrite=False, write_game=False):
 
     for season in range(seasons[0], seasons[1]):
-        if not os.path.exists('data/season_' + str(season)):
-            os.makedirs('data/season_' + str(season))
-            os.makedirs('data/season_' + str(season) + '/teams/')
+        if not os.path.exists('../data/season_' + str(season)):
+            os.makedirs('../data/season_' + str(season))
+            os.makedirs('../data/season_' + str(season) + '/teams/')
         fetch_teams_stats(str(season), teams, rewrite, write_game)
 
 
@@ -28,7 +28,7 @@ def fetch_teams_stats(season, teams, rewrite, write_game):
 
     for team in teams:
         try:
-            filename = "data/season_" + season + "/teams/" + team + "_stats.csv"
+            filename = "../data/season_" + season + "/teams/" + team + "_stats.csv"
             url = url_base_team + team + "/" + season + url_season_stats
             if rewrite or not(os.path.exists(filename)):
                 df = fetch_team_stats(season, features_wanted, url, write_game)

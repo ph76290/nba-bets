@@ -1,12 +1,9 @@
 import pandas as pd
 import numpy as np
-import sys
-sys.path.append("..")
-from build_dataset_tools.load_file import load_csv_into_dataframe
-from encode_features import encode_location, encode_streak, encode_overtimes, encode_result, encode_start_time, encode_face_to_face, encode_last_n
+from tools.encode_features import *
 from datetime import datetime
 import os
-from tools import min_max_normalization, swap_game, get_teams, element_in_string, get_team_from_full_name, get_all_columns
+from tools.tools import min_max_normalization, swap_game, get_teams, element_in_string, get_team_from_full_name, get_all_columns
 
 
 def build_train_test_data(path):
@@ -99,7 +96,7 @@ def build_train_test_data(path):
 
 
 def build_train_test_data_single_file(filename):
-    df = load_csv_into_dataframe(filename, [0])
+    df = pd.read_csv(filename, headers=[0])
 
     # Process columns
     df['date_game'] = pd.to_datetime(df['date_game'], format='%a, %b %d, %Y')

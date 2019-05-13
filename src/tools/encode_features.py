@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from tools import get_teams_full_name
+from tools.tools import get_teams_full_name
 
 def encode_streak(elt):
     if (elt[0] == 'L'):

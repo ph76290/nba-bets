@@ -1,7 +1,7 @@
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
-from tools import get_team_from_full_name, get_team_from_short_name
+from tools.tools import get_team_from_full_name, get_team_from_short_name
 from datetime import datetime
 from datetime import timedelta
 import pandas as pd
@@ -14,7 +14,7 @@ base_url = 'https://www.rivalo.com/en/sports-results/basketball/usa/gbhhdab-nba/
 
 def read_odds(season, dates):
     df = None
-    dir_name = 'data/season_{}/odds/'.format(str(season))
+    dir_name = '../data/season_{}/odds/'.format(str(season))
     if not(os.path.exists(dir_name + 'odds.csv')):
         if not(os.path.exists(dir_name)):
             os.makedirs(dir_name)
