@@ -19,7 +19,7 @@ def encode_location(elt):
     return 0
 
 def encode_overtimes(elt):
-    if not(elt):
+    if not(elt) or elt == "nan":
         return 0
     if not(elt.startswith("OT")):
         return int(elt[0])

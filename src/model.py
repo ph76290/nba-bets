@@ -1,4 +1,5 @@
 from keras.models import Sequential
+from keras import backend as K
 from keras.layers import LSTM, Dense, Dropout
 from tools.tools import get_odds
 
@@ -10,18 +11,12 @@ def lstm_model(shape, season, dropout=0.4, extra_hidden_layer=True, neurons_on_f
     if extra_hidden_layer:
         model.add(Dense(4, activation='sigmoid'))
     model.add(Dense(1, activation='tanh'))
-    model.compile(loss=custom_loss_wrapper(season), optimizer='adam', metrics=["accuracy"])
+    model.compile(loss='mae', optimizer='adam', metrics=["accuracy"])
     return model
 
 
-def custom_loss_wrapper(season):
-    odds = get_odds(season)
-    odds['winner_rate'] = odds.apply(lambda row: row['odd_home_team'] if row['results'] == 1.0 else row['odd_away_team'], axis=1)
-    print(odds)
-    odds = list(map(lambda x: float(x.replace(',', '.')), odds.values[:, 5]))
-    def custom_loss(y_true, y_pred):
-        #print(y_true, y_pred)
-        loss = (y_true - y_pred) * odds
-        print(loss)
-        return loss * loss
-    return custom_loss
+def custom_loss(y_true, y_pred):
+    signs = K.tf.sign(y_true)
+    loss = (signs - y_pred) * y_true
+    print(loss)
+    return loss * loss

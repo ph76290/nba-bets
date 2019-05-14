@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 
 
 
-def predict_teams_result(sets, model, odds, season, epoch, extra_hidden_layer, dropout):
+def predict_teams_result(sets, model, odds, season, epoch, extra_hidden_layer, dropout, betting_threshold):
 
     ((x_train, y_train), (x_validation, y_validation), (x_test, y_test)) = sets
 
@@ -23,7 +23,7 @@ def predict_teams_result(sets, model, odds, season, epoch, extra_hidden_layer, d
     )
 
     predictions = model.predict(x_test)
-    simulation_money = score_predictions(predictions, y_test, odds)
+    simulation_money = score_predictions(predictions, y_test, odds, betting_threshold)
     
     plt.show()
 

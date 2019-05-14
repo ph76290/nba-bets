@@ -17,20 +17,34 @@ def get_all_columns():
             "win_ratio",
             "overtimes",
             "time_between_games",
-            "ast",
-            "tov",
-            "fg",
-            "fga",
-            "fg3",
-            "fg3a",
-            "ft",
-            "fta",
-            "orb",
-            "drb",
-            "stl",
-            "blk",
-            "pf",
-            "plus_minus"
+            "3ast",
+            "3tov",
+            "3fg",
+            "3fga",
+            "3fg3",
+            "3fg3a",
+            "3ft",
+            "3fta",
+            "3orb",
+            "3drb",
+            "3stl",
+            "3blk",
+            "3pf",
+            "3plus_minus",
+            "8ast",
+            "8tov",
+            "8fg",
+            "8fga",
+            "8fg3",
+            "8fg3a",
+            "8ft",
+            "8fta",
+            "8orb",
+            "8drb",
+            "8stl",
+            "8blk",
+            "8pf",
+            "8plus_minus"
         ] + get_teams()
     columns.append("game_result")
     return columns
@@ -82,6 +96,6 @@ def swap_game(s):
 
 def get_odds(season):
     odds = pd.read_csv("../data/season_" + str(season) + "/odds/odds.csv")
-    results = pd.read_csv("../data/season_" + str(season) + "/teamsdata_processed.csv")['game_result']
+    results = pd.read_csv("../data/season_" + str(season) + "/teams/data_processed.csv")['game_result']
     odds['results'] = results
     return odds
