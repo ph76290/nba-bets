@@ -3,22 +3,25 @@ from tools.tools import compress
 import numpy as np
 
 
-def score_predictions(predictions, y_test, odds, betting_threshold):
+def score_predictions(predictions, y_test, odds):
 
-    flatten_predictions = [float(item) for sublist in predictions for item in sublist]
-    scores = np.array(y_test - flatten_predictions).tolist()
+    # Compute the score for each sample
+    scores = np.array(y_test - predictions).tolist()
+    
+    # Differentiate the different scores with excellent, good or bad labels
     excellent_scores = map(lambda elt: True if abs(elt) <= 0.5 else False, scores)
     good_scores = map(lambda elt: True if abs(elt) <= 1.0 and abs(elt) > 0.5 else False, scores)
     bad_scores = map(lambda elt: True if abs(elt) > 1.0 else False, scores)
 
-    simulation_money = simulate_bets(flatten_predictions, y_test, betting_threshold, odds)
+    # Zip the predictions on each game
+    teams_predictions = [[team, prediction] for prediction, team in zip(predictions, odds)]
 
-    teams_predictions = [[team, prediction] for prediction, team in zip(flatten_predictions, odds)]
-
+    # Differentiale now on each label we determined before
     excellent_scores_teams = list(compress(teams_predictions, excellent_scores))
     good_scores_teams = list(compress(teams_predictions, good_scores))
     bad_scores_teams = list(compress(teams_predictions, bad_scores))
 
+    # Print the results
     print("The result for each team predicted correctly:\n")
     
     print("\t- with an excellent confidence indice is:\n")
@@ -35,14 +38,12 @@ def score_predictions(predictions, y_test, odds, betting_threshold):
 
     if len(predictions) > 1:
         print("\nPredictions stastistics:\n")
-        print("\t\tMin: %.3f" % (min(flatten_predictions)))
-        print("\t\tMax: %.3f" % (max(flatten_predictions)))
-        print("\t\tMean: %.3f" % (mean(flatten_predictions)))
-        print("\t\tStandard deviation: %.3f\n" % (stdev(flatten_predictions)))
+        print("\t\tMin: %.3f" % (min(predictions)))
+        print("\t\tMax: %.3f" % (max(predictions)))
+        print("\t\tMean: %.3f" % (mean(predictions)))
+        print("\t\tStandard deviation: %.3f\n" % (stdev(predictions)))
 
     print("The accuracy of the model is: %.1f perc.\n\n" % ((len(excellent_scores_teams) + len(good_scores_teams) / 2) / len(scores) * 100))
-
-    return simulation_money
 
 
 def simulate_bets(predictions, y_test, betting_threshold, odds):
